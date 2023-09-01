@@ -1,6 +1,7 @@
 Jadi Developer
 - Saya ingin jadi Developer
 - Bisa jadi Influencer
+ * fiver
 - Membuat Website
  * UI
  * UX
@@ -8,3 +9,4 @@ Jadi Developer
 - Kerja di perusahaan besar
 - design website
 - framework
+

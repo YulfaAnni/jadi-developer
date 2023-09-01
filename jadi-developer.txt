@@ -3,7 +3,10 @@ Jadi Developer
 - Bisa jadi Influencer
  * fiver
 - Membuat Website
+ * UI
+ * UX
 - Saya bercita-cita jadi Senior Developer
 - Kerja di perusahaan besar
-- cari kerja
- * linkedln
+- design website
+- framework
+
